@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'nunito', sans-serif;
+   
+    scroll-behavior: smooth;
+}
+
+a {
+    color: #D1C02C;
+    font-weight: bold;
+}
+
+section{
+    height: 100vh;  
+}
+
+.leeswijzerSctn{
+    background-color: #1969FF;
+}
+
+.container{
+    max-width: 60vw;
+    margin: auto;
+    padding-top: 15%;
+    min-height: 100vh;
+}
+
+.containerBlue{
+    max-width: 60vw;
+    margin: auto;
+    padding-top: 15%;
+    height: 60vh;
+    background-color: #1969FF;
+    color: #fff;
+}
+
+.fase1{
+    background-color: #1969FF;
+}
+
+
+.fase1Sctn h2{
+    background: none;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    max-width: 60vw;
+    margin: auto;
+    padding-top: 3em;
+    
+}
+
+#logo{
+    letter-spacing: 1em;
+    font-weight: 700;
+}
+
+.links a{
+    margin-left: 3em;
+    text-decoration: none;
+    color: #2a2a2a;
+}
+
+.links a:hover{
+    background-color: #1969FF;
+    color: #fff;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+#heroImg{
+    height: 80vh;
+    position: absolute;
+    bottom: 0;
+}
+
+.heroText{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-1%, -50%);
+}
+
+#leeswijzer svg{
+    height: 12px;
+    background: none;
+    fill: #fff;
+    
+}
+
+.hero h1{
+    font-size: 60px;
+}
+
+#leeswijzer{
+    background-color: #1969FF;
+    height: 3em;
+    width: 10em;
+    border: none;
+    border-radius: 50px;
+    color: #fff;
+    font-weight: 600;
+}
