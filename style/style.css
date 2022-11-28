@@ -103,6 +103,12 @@ section{
     border-radius: 50px;
     color: #fff;
     font-weight: 600;
+    transition: 1s;
 }
 
+#leeswijzer:hover{
+    scale:calc(1.07);
+    transition: 1s;
+    box-shadow: 4px 4px 10px#1969ff4a;
+}
 
