@@ -33,6 +33,12 @@ section{
     height: 60vh;
     background-color: #1969FF;
     color: #fff;
+    overflow-y: scroll;
+    
+}
+
+.containerBlue::-webkit-scrollbar {
+    display: none;
 }
 
 .fase1{
