@@ -54,6 +54,10 @@ section{
     background: none;
 }
 
+#fase3{
+    margin-top: 13em;
+}
+
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -132,3 +136,4 @@ section{
     transform: translate(-50%);
     height: 65vh;
 }
+
