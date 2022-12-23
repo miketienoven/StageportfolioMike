@@ -41,14 +41,25 @@ section{
     
 }
 
+.containerBlueFase1{
+    max-width: 60vw;
+    margin: auto;
+    padding-top: 5%;
+    height: 100vh;
+    background-color: #1969FF;
+    color: #fff;
+    overflow-y: visible;
+    
+}
+
 .containerBlue::-webkit-scrollbar {
     display: none;
 }
 
 .fase1{
     background-color: #1969FF;
+    min-height: 140vh;
 }
-
 
 .fase1Sctn h2{
     background: none;
