@@ -52,6 +52,12 @@ section{
     
 }
 
+#weerFoto{
+    transform: rotate(270deg);
+    text-align: center;
+}
+
+
 .containerBlue::-webkit-scrollbar {
     display: none;
 }
