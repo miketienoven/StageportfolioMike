@@ -144,7 +144,7 @@ section{
 }
 
 #sectieReflectie{
-    margin-top: 13em;
+    margin-top: 30em;
 }
 
 #fotoSchaal{
@@ -154,3 +154,14 @@ section{
     height: 65vh;
 }
 
+#voortgangfoto{
+    transform: rotate(270deg);
+}
+
+#weekfoto{
+    transform: rotate(270deg);
+}
+
+#dagfoto{
+    transform: rotate(270deg);
+}
